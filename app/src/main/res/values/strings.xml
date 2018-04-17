@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrickyMod</string>
+    <string name="action_restart">Restart</string>
+    <string name="pref_category_notification">Notification</string>
+    <string name="pref_default_notification_category">Set default notification category</string>
+    <string name="pref_default_notification_category_summary">Specify a default notification category for Oreo</string>
+    <string name="pref_category_navbar">Navigation Bar</string>
+    <string name="pref_navbar_height">Navbar height</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrickyMod</string>
+    <string name="action_restart">重启</string>
+    <string name="pref_category_notification">通知</string>
+    <string name="pref_default_notification_category">补充默认通知类别</string>
+    <string name="pref_default_notification_category_summary">为 Oreo 的通知类别指定默认值</string>
+    <string name="pref_category_navbar">导航栏</string>
+    <string name="pref_navbar_height">导航栏高度</string>
+</resources>
